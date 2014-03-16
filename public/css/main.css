@@ -1,0 +1,515 @@
+#outer-wrapper {
+    width: 1050px;
+    margin: auto;
+    overflow: auto;
+}
+
+#banner {
+    width: inherit;
+    height: 80px;
+    position: fixed;
+    z-index: 1;
+    background-color: white;
+    overflow: hidden;
+}
+
+#logo {
+    position: relative;
+    margin: 15px 0;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 36px;
+    color: #666666;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.5s;
+ }
+
+ #logo.show {
+    opacity: 1;
+}
+
+nav {
+    width: inherit;
+    height: 53px;
+    position: fixed;
+    z-index: 1;
+    top: 50px;
+    border-top: 1px solid #C0C0C0;
+    border-bottom: 1px solid #C0C0C0;
+    background-color: white;
+}
+
+nav ul {
+    position: relative;
+    top: 16px;
+    margin: 0;
+    padding:0;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 0 15px;
+    padding: 0 3px;
+    font-size: 14px;
+    font-family:'Quicksand', sans-serif;
+    color: #222222;
+    transition: background-color 0.8s;
+}
+
+nav li:hover {
+    cursor: pointer;
+}
+
+nav li#about-me.selected {
+    background-color: #cfd1e1;
+}
+
+nav li#my-timeline.selected {
+    background-color: #c3e3dc;
+}
+
+nav li#things-i-like.selected {
+    background-color: #f6b9ae;
+}
+
+nav li#contact-me.selected {
+    background-color: #ffd683;
+}
+
+#spacer {
+    height: 105px;
+}
+
+#header {
+    width: inherit;
+    height: 550px;
+    position: relative;
+    z-index: -1;
+    overflow: auto;
+    background-color: #A6E8AA;
+}
+
+#header p {
+    position: absolute;
+    width: inherit;
+    top: 190px;
+    font-family: 'Raleway';
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+#header #arrow {
+    position: absolute;
+    top: 420px;
+    height: 60px;
+    width: inherit;
+}
+
+#content {
+    background-color: white;
+    overflow: auto;
+}
+
+.content-article {
+    position: relative;
+    width: inherit;
+    margin: 50px 0;
+    overflow: hidden;
+    background-color: #F6F6F6;
+}
+
+/* ==========================================================================
+   About me section
+   ========================================================================== */
+
+#about-me-article {
+    height: 1090px;
+    background-color: #cfd1e1 ;
+}
+
+.about-me-heading {
+    position: absolute;
+    font-family: 'Raleway';
+    font-size: 26px;
+    color: white;
+}
+
+.about-me-text {
+    position: absolute;
+    width: 160px;
+    height: 100px;
+    text-align: center;
+    font-family:'Quicksand', sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+#photo-heading {
+    top: 190px;
+    left: 475px;
+}
+
+#australia-heading {
+    top: 409px;
+    left: 415px;
+}
+
+#australia-text {
+    top: 400px;
+    left: 790px;
+}
+
+#canada-heading {
+    top: 627px;
+    left: 333px;
+}
+
+#canada-text {
+    top: 631px;
+    left: 650px;
+}
+
+#uk-heading {
+    top: 847px;
+    left: 473px;
+}
+
+#uk-text {
+    top: 842px;
+    left: 789px;
+}
+
+#lily-photo {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: solid white 3px;
+    top: 150px;
+    left: 630px;
+}
+
+#world-map {
+    position: absolute;
+    width: 320px;
+    top: 139px;
+    left: 84px;
+}
+
+/* ==========================================================================
+   My Timeline Section
+   ========================================================================== */
+
+#my-timeline-article {
+    height: 2000px;
+    background-color: #c3e3dc;
+}
+
+.timeline-year {
+    position: absolute;
+    text-align: center;
+    font-family:'Quicksand', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+.timeline-month {
+    position: absolute;
+    text-align: center;
+    font-family:'Quicksand', sans-serif;
+    font-size: 15px;
+    color: white;
+}
+
+.timeline-text {
+    position: absolute;
+    text-align: center;
+    font-family:'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+#month-jun {
+    position: absolute;
+    top: 286px;
+    left: 509px;
+}
+
+#year-2014 {
+    position: absolute;
+    top: 100px;
+    left: 490px;
+}
+
+#senior-account-executive {
+    top: 250px;
+    left: 550px;
+}
+
+#year-2013 {
+    position: absolute;
+    top: 423px;
+    left: 493px;
+}
+
+/*#account-executive {
+    top: 440px;
+    left: 290px;
+}*/
+
+#intern {
+    top: 390px;
+    left: 290px;
+}
+
+#steak-logo {
+    position: absolute;
+    top: 433px;
+    left: 85px;
+    width: 180px; 
+}
+
+
+/* ==========================================================================
+   Things I Like Section
+   ========================================================================== */
+
+#things-i-like-article {
+    height: 550px;
+    background-color: #f6b9ae;
+}
+
+/*#mcgill-background {
+    height: 500px;
+    width: inherit;
+    background: url(../img/McGillCampus.png) no-repeat center center;
+    background-size: 100%;
+    opacity: 0.9;
+}
+
+.school-frame {
+    top: 520px;
+    left: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    opacity: 0.8;
+    transition: opacity 0.4s;
+}
+
+.school-frame:hover {
+    opacity: 0.95;
+}
+
+.school-frame p {
+    font-family:'Quicksand', sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 14px;
+    margin: 0;
+}
+
+#mcgill-logo {
+    top: 530px;
+    left: 30px;
+    background: url(../img/McGillLogo.png) no-repeat center center;
+    background-size: 100%;
+    background-color: white;
+}
+
+#degree {
+    top: 530px;
+    left: 250px;
+    opacity: 0.8;
+}
+
+#degree p {
+    padding: 50px 20px;
+}
+
+#tvmcgill-logo {
+    top: 530px;
+    left: 480px;
+    background: url(../img/TvMcGillLogo.png) no-repeat center center;
+    background-size: 70%;
+    background-color: white;
+}
+
+#tvmcgill-description {
+    top: 530px;
+    left: 710px;
+    opacity: 0.8;
+    background-color: white;
+}
+
+#tvmcgill-description p {
+    padding: 50px 20px;
+}*/
+
+/* ==========================================================================
+   Contact Me Section
+   ========================================================================== */
+
+#contact-me-article {
+    height: 680px;
+    background-color: #ffd683;
+}
+
+.contact-me-label {
+    position: absolute;
+    width: 300px;
+    margin: 0;
+    left: 200px;
+    text-align: center;
+    font-family: 'Raleway';
+    font-size: 40px;
+    color: white;
+}
+
+#get-in-touch-label {
+    top: 265px;
+}
+
+#follow-me-label {
+    top: 333px;
+}
+
+.contact-me-link {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: solid white 3px;
+}
+
+.contact-me-link img {
+    position: relative;
+}
+
+#email-link {
+    top: 161px;
+    left: 702px;
+    background-color: #b06a6c;
+}
+
+#email-svg {
+    width: 44px;
+    top: 13px;
+    left: 13px;
+}
+
+#facebook-link {
+    top: 211px;
+    left: 622px;
+    background-color: #df9fed;
+}
+
+#facebook-svg {
+    width: 23px;
+    top: 14px;
+    left: 23px;
+}
+
+#linkedin-link {
+    top: 211px;
+    left: 782px;
+    background-color: #a0cec6;
+}
+
+#linkedin-svg {
+    width: 36px;
+    top: 15px;
+    left: 19px;
+}
+
+#twitter-link {
+    top: 362px;
+    left: 542px;
+    background-color: #c1c5dd;
+}
+
+#twitter-svg {
+    width: 37px;
+    top: 18px;
+    left: 18px;
+}
+
+#pinterest-link {
+    top: 362px;
+    left: 702px;
+    background-color: #fe8285;
+}
+
+#pinterest-svg {
+    width: 35px;
+    top: 19px;
+    left: 19px;
+}
+
+#soundcloud-link {
+    top: 362px;
+    left: 862px;
+    background-color: #f6b9ae;
+}
+
+#soundcloud-svg {
+    width: 55px;
+    top: 6px;
+    left: 8px;
+}
+
+#instagram-link {
+    top: 412px;
+    left: 622px;
+    background-color: #b0ebde;
+}
+
+#instagram-svg {
+    width: 37px;
+    top: 17px;
+    left: 17px;
+}
+
+#vimeo-link {
+    top: 412px;
+    left: 782px;
+    background-color: #ada0f2;
+}
+
+#vimeo-svg {
+    width: 40px;
+    top: 21px;
+    left: 16px;
+}
+
+#github-link {
+    top: 462px;
+    left: 702px;
+    background-color: #c4bc9d;
+}
+
+#github-svg {
+    width: 55px;
+    top: 9px;
+    left: 9px;
+}
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+
+#footer {
+    height: 70px;
+    border-top: 1px solid #C0C0C0;font-size: 14px;
+    text-align: center;
+}
+
+#footer p {
+    font-family:'Quicksand', sans-serif;
+    font-size: 12px;
+    color: #222222;
+}

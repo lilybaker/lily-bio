@@ -1,0 +1,8 @@
+{
+  "name": "Lily-Bio",
+  "description": "A little bit about Lily Baker",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.x"
+  }
+}
