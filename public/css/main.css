@@ -18,6 +18,7 @@
     margin: 15px 0;
     font-family: 'Quicksand', sans-serif;
     font-size: 36px;
+    letter-spacing: 6px;
     color: #666666;
     text-align: center;
     opacity: 0;
@@ -204,14 +205,14 @@ nav li#contact-me.selected {
 
 #my-timeline-article {
     height: 2000px;
-    background-color: #9EBED6;
+    background-color: #c3e3dc;
 }
 
 .timeline-year {
     position: absolute;
     text-align: center;
     font-family:'Quicksand', sans-serif;
-    font-size: 30px;
+    font-size: 18px;
     color: white;
 }
 
@@ -219,122 +220,137 @@ nav li#contact-me.selected {
     position: absolute;
     text-align: center;
     font-family:'Raleway', sans-serif;
-    font-size: 15px;
+    font-size: 24px;
+    color: white;
+}
+
+.timeline-heading {
+    position: absolute;
+    font-family: 'Raleway';
+    font-size: 26px;
     color: white;
 }
 
 .timeline-text {
     position: absolute;
-    text-align: center;
-    font-family:'Raleway', sans-serif;
-    font-size: 24px;
-    color: white;
-}
-
-.timeline-description-text {
-    position: absolute;
-    text-align: left;
     font-family:'Quicksand', sans-serif;
     font-size: 16px;
     color: white;
 }
 
-#month-jun-2013 {
+.timeline-image {
     position: absolute;
-    top: 255px;
-    left: 509px;
 }
 
-#year-2013 {
-    position: absolute;
-    top: 100px;
-    left: 490px;
+#june-2013 .timeline-month {
+    top: 156px;
+    left: 138px;
 }
 
-#senior-account-executive {
-    top: 220px;
-    left: 580px;
+#june-2013 .timeline-year {
+    top: 191px;
+    left: 149px;
 }
 
-#senior-account-executive-description {
-    top: 280px;
-    left: 640px;
+#june-2013-heading {
+    top: 90px;
+    left: 460px;
 }
 
-#year-2012 {
-    position: absolute;
-    top: 360px;
-    left: 495px;
+#june-2013-text {
+    top: 200px;
+    left: 460px;
+    width: 300px;
 }
 
-#account-executive {
+#mushroom-image {
+    height: 110px;
+    top: 142px;
+    left: 795px;
+}
+
+#august-2012 .timeline-month {
+    top: 457px;
+    left: 122px;
+}
+
+#august-2012 .timeline-year {
+    top: 491px;
+    left: 150px;
+}
+
+#august-2012-heading {
+    top: 427px;
+    left: 330px;
+}
+
+#august-2012-text {
     top: 500px;
-    left: 290px;
+    left: 330px;
+    width: 300px;
 }
 
-#month-aug-2012 {
+#steak-image {
     position: absolute;
-    top: 520px;
-    left: 508px;
+    height: 35px;
+    top: 481px;
+    left: 660px;
 }
 
-#steak-logo {
+#may-2012 .timeline-month {
+    top: 753px;
+    left: 143px;
+}
+
+#may-2012 .timeline-year {
+    top: 788px;
+    left: 150px;
+}
+
+#may-2012-heading {
+    top: 693px;
+    left: 440px;
+}
+
+#may-2012-text {
+    top: 800px;
+    left: 440px;
+    width: 300px;
+}
+
+#mcgill-image {
     position: absolute;
-    top: 280px;
-    left: 85px;
-    width: 180px; 
+    height: 35px;
+    top: 784px;
+    left: 755px;
 }
 
-#social-media-freelancer {
-    top: 500px;
-    left: 580px;
+#august-2011 .timeline-month {
+    top: 1057px;
+    left: 122px;
 }
 
-#dentsubos-logo {
+#august-2011 .timeline-year {
+    top: 1091px;
+    left: 150px;
+}
+
+#august-2011-heading {
+    top: 993px;
+    left: 360px;
+}
+
+#august-2011-text {
+    top: 1100px;
+    left: 360px;
+    width: 290px;
+}
+
+#cloud-image {
     position: absolute;
-    top: 675px;
-    left: 710px;
-    width: 280px;
-}
-
-#month-may-2012 {
-    top: 655px;
-    left: 508px;
-}
-
-#graduated-mcgill {
-    top: 630px;
-    left: 260px;
-}
-
-#mcgill-logo {
-    position: absolute;
-    top: 790px;
-    left: 85px;
-    width: 150px;
-}
-
-#tvmcgill-logo {
-    position: absolute;
-    top: 1010px;
-    left: 85px;
-    width: 150px;
-}
-
-#month-aug-2011 {
-    top: 925px;
-    left: 508px;
-}
-
-#year-2011 {
-    position: absolute;
-    top: 765px;
-    left: 495px;
-}
-
-#client-services-intern {
-    top: 900px;
-    left: 580px;
+    height: 90px;
+    top: 1055px;
+    left: 704px;
 }
 
 
@@ -347,74 +363,120 @@ nav li#contact-me.selected {
     background-color: #f6b9ae;
 }
 
-/*#mcgill-background {
-    height: 500px;
-    width: inherit;
-    background: url(../img/McGillCampus.png) no-repeat center center;
-    background-size: 100%;
-    opacity: 0.9;
+#play-article {
+    height: 1000px;
 }
 
-.school-frame {
-    top: 520px;
-    left: 20px;
-    height: 200px;
-    width: 200px;
-    border-radius: 50%;
-    background-color: white;
+.play-panel {
+    height: 330px;
+    width: 330px;
+    overflow: hidden;
+}
+
+.geo-text {
+    height: 20px;
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    opacity: 0.87;
+}
+
+.geo-marker {
+    height: 25px;
+    opacity: .85;
+}
+
+/*Panel 1*/
+
+#picture-1 {
     position: absolute;
-    opacity: 0.8;
-    transition: opacity 0.4s;
-}
-
-.school-frame:hover {
-    opacity: 0.95;
-}
-
-.school-frame p {
-    font-family:'Quicksand', sans-serif;
-    color: black;
-    text-align: center;
-    font-size: 14px;
-    margin: 0;
-}
-
-#mcgill-logo {
-    top: 530px;
-    left: 30px;
-    background: url(../img/McGillLogo.png) no-repeat center center;
+    top: 15px;
+    left: 15px;
+    background-image: url("/img/budapest.png");
     background-size: 100%;
-    background-color: white;
 }
 
-#degree {
-    top: 530px;
-    left: 250px;
-    opacity: 0.8;
+#budapest-marker {
+    position: absolute;
+    top: 265px;
+    left: 15px;
 }
 
-#degree p {
-    padding: 50px 20px;
+#budapest-text{
+    top: 250px;
+    left: 45px;
 }
 
-#tvmcgill-logo {
-    top: 530px;
-    left: 480px;
-    background: url(../img/TvMcGillLogo.png) no-repeat center center;
-    background-size: 70%;
-    background-color: white;
+/*Panel 2*/
+
+#picture-2 {
+    position: absolute;
+    top: 15px;
+    left: 360px;
+    background-image: url("/img/soho.png");
+    background-size: 100%;
 }
 
-#tvmcgill-description {
-    top: 530px;
-    left: 710px;
-    opacity: 0.8;
-    background-color: white;
+#soho-marker {
+    position: absolute;
+    top: 265px;
+    left: 12.5px;
 }
 
-#tvmcgill-description p {
-    padding: 50px 20px;
-}*/
+#soho-text{
+    top: 250px;
+    left: 45px;
+}
+
+/*Panel 3*/
+
+#video-1 {
+    position: absolute;
+    top: 15px;
+    left: 637.5px;
+}
+
+/*Panel 4*/
+
+#video-2 {
+    position: absolute;
+    top: 330px;
+    left: 12.5px;
+}
+
+/*Panel 5*/
+
+#what-I-like-text {
+    position: absolute;
+    top: 330px;
+    left: 325px;
+    background-color: #a5a1c6;
+    font-family:'Quicksand', sans-serif;
+    color: white;
+}
+
+/*Panel 6*/
+
+#picture-3 {
+    position: absolute;
+    top: 355px;
+    left: 705px;
+    background-image: url("/img/cambridge.png");
+    background-size: 100%;: 
+}
+
+#cambridge-marker {
+    position: absolute;
+    top: 265px;
+    left: 12.5px;
+}
+
+#cambridge-text{
+    top: 250px;
+    left: 45px;
+}
+
+/*Panel 7*/
 
 /* ==========================================================================
    Contact Me Section
