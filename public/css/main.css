@@ -204,7 +204,7 @@ nav li#contact-me.selected {
 
 #my-timeline-article {
     height: 2000px;
-    background-color: #c3e3dc;
+    background-color: #9EBED6;
 }
 
 .timeline-year {
@@ -218,7 +218,7 @@ nav li#contact-me.selected {
 .timeline-month {
     position: absolute;
     text-align: center;
-    font-family:'Quicksand', sans-serif;
+    font-family:'Raleway', sans-serif;
     font-size: 15px;
     color: white;
 }
@@ -226,49 +226,115 @@ nav li#contact-me.selected {
 .timeline-text {
     position: absolute;
     text-align: center;
-    font-family:'Quicksand', sans-serif;
-    font-size: 20px;
+    font-family:'Raleway', sans-serif;
+    font-size: 24px;
     color: white;
 }
 
-#month-jun {
+.timeline-description-text {
     position: absolute;
-    top: 286px;
+    text-align: left;
+    font-family:'Quicksand', sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+#month-jun-2013 {
+    position: absolute;
+    top: 255px;
     left: 509px;
 }
 
-#year-2014 {
+#year-2013 {
     position: absolute;
     top: 100px;
     left: 490px;
 }
 
 #senior-account-executive {
-    top: 250px;
-    left: 550px;
+    top: 220px;
+    left: 580px;
 }
 
-#year-2013 {
+#senior-account-executive-description {
+    top: 280px;
+    left: 640px;
+}
+
+#year-2012 {
     position: absolute;
-    top: 423px;
-    left: 493px;
+    top: 360px;
+    left: 495px;
 }
 
-/*#account-executive {
-    top: 440px;
+#account-executive {
+    top: 500px;
     left: 290px;
-}*/
+}
 
-#intern {
-    top: 390px;
-    left: 290px;
+#month-aug-2012 {
+    position: absolute;
+    top: 520px;
+    left: 508px;
 }
 
 #steak-logo {
     position: absolute;
-    top: 433px;
+    top: 280px;
     left: 85px;
     width: 180px; 
+}
+
+#social-media-freelancer {
+    top: 500px;
+    left: 580px;
+}
+
+#dentsubos-logo {
+    position: absolute;
+    top: 675px;
+    left: 710px;
+    width: 280px;
+}
+
+#month-may-2012 {
+    top: 655px;
+    left: 508px;
+}
+
+#graduated-mcgill {
+    top: 630px;
+    left: 260px;
+}
+
+#mcgill-logo {
+    position: absolute;
+    top: 790px;
+    left: 85px;
+    width: 150px;
+}
+
+#tvmcgill-logo {
+    position: absolute;
+    top: 1010px;
+    left: 85px;
+    width: 150px;
+}
+
+#month-aug-2011 {
+    top: 925px;
+    left: 508px;
+}
+
+#year-2011 {
+    position: absolute;
+    top: 765px;
+    left: 495px;
+}
+
+#client-services-intern {
+    top: 900px;
+    left: 580px;
 }
 
 
