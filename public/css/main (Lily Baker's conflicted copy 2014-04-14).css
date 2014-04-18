@@ -359,7 +359,7 @@ nav li#contact-me.selected {
    ========================================================================== */
 
 #things-i-like-article {
-    height: 1740px;
+    height: 1050px;
     background-color: #f6b9ae;
 }
 
@@ -375,20 +375,15 @@ nav li#contact-me.selected {
 
 .geo-text {
     height: 20px;
-    position: absolute;
+    position: relative;
     font-family: 'Quicksand', sans-serif;
     color: white;
     opacity: 0.87;
-    top: 272px;
-    left: 45px;
 }
 
 .geo-marker {
-    position: absolute;
     height: 25px;
     opacity: .85;
-    top: 285px;
-    left: 15px;
 }
 
 /*Panel 1*/
@@ -401,6 +396,17 @@ nav li#contact-me.selected {
     background-size: 100%;
 }
 
+#budapest-marker {
+    position: absolute;
+    top: 265px;
+    left: 15px;
+}
+
+#budapest-text{
+    top: 250px;
+    left: 45px;
+}
+
 /*Panel 2*/
 
 #panel-2 {
@@ -411,42 +417,42 @@ nav li#contact-me.selected {
     background-size: 100%;
 }
 
+#soho-marker {
+    position: absolute;
+    top: 265px;
+    left: 12.5px;
+}
+
+#soho-text{
+    top: 250px;
+    left: 45px;
+}
+
 /*Panel 3*/
 
 #panel-3 {
     position: absolute;
     top: 15px;
-    left: 705px;
+    left: 637.5px;
 }
 
 /*Panel 4*/
 
 #panel-4 {
     position: absolute;
-    top: 360px;
-    left: 15px;
+    top: 330px;
+    left: 12.5px;
 }
 
 /*Panel 5*/
 
-#panel-5 {
-    position: absolute;
-    top: 360px;
-    left: 360px;
-    border-width: 3px;
-    border-color: white;
-/*    background-color: #CFD1E1;
-*/}
-
 #what-I-like-text {
     position: absolute;
-    top: 60px;
-    text-align: center;
+    top: 15px;
+    left: 705px;
+    background-color: #a5a1c6;
     font-family:'Quicksand', sans-serif;
-    font-size: 20px;
     color: white;
-    padding-left: 20px;
-    padding-right: 20px;
 }
 
 /*Panel 6*/
@@ -459,95 +465,18 @@ nav li#contact-me.selected {
     background-size: 100%;: 
 }
 
+#cambridge-marker {
+    position: absolute;
+    top: 265px;
+    left: 12.5px;
+}
+
+#cambridge-text{
+    top: 250px;
+    left: 45px;
+}
+
 /*Panel 7*/
-
-#panel-7 {
-    position: absolute;
-    top: 705px;
-    left: 15px;
-    background-image: url("/img/athens.png");
-    background-size: 100%;: 
-}
-
-/*Panel 8*/
-
-#panel-8 {
-    position: absolute;
-    top: 705px;
-    left: 360px;
-    background-image: url("/img/tremblant.png");
-    background-size: 100%;: 
-}
-
-#tremblant-marker {
-    color: black;
-}
-
-#tremblant-text {
-    color: black;
-}
-
-/*Panel 9*/
-
-#panel-9 {
-    position: absolute;
-    top: 705px;
-    left: 705px;
-    background-image: url("/img/stradbroke.png");
-    background-size: 100%;: 
-}
-
-/*Panel 10*/
-
-#panel-10 {
-    position: absolute;
-    top: 1050px;
-    left: 15px;
-    background-image: url("/img/chamonix.png");
-    background-size: 100%;: 
-}
-
-/*Panel 11*/
-
-/*Panel 12*/
-
-#panel-12 {
-    position: absolute;
-    top: 1050px;
-    left: 705px;
-    background-image: url("/img/istanbul.png");
-    background-size: 100%;: 
-}
-
-/*Panel 13*/
-
-#panel-13 {
-    position: absolute;
-    top: 1395px;
-    left: 15px;
-    background-image: url("/img/portobello.png");
-    background-size: 100%;: 
-}
-
-/*Panel 14*/
-
-#panel-14 {
-    position: absolute;
-    top: 1395px;
-    left: 360px;
-    background-image: url("/img/versailles.png");
-    background-size: 100%;: 
-}
-
-/*Panel 15*/
-
-#panel-15 {
-    position: absolute;
-    top: 1395px;
-    left: 705px;
-    background-image: url("/img/montreal.png");
-    background-size: 100%;: 
-}
 
 /* ==========================================================================
    Contact Me Section
