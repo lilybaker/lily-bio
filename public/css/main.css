@@ -204,7 +204,7 @@ nav li#contact-me.selected {
    ========================================================================== */
 
 #my-timeline-article {
-    height: 2000px;
+    height: 2400px;
     background-color: #c3e3dc;
 }
 
@@ -293,8 +293,18 @@ nav li#contact-me.selected {
 #steak-image {
     position: absolute;
     height: 35px;
-    top: 481px;
-    left: 660px;
+    top: 92px;
+    left: 16px;
+}
+
+#steak-link {
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: transparent;
+    top: 390px;
+    left: 640px;
 }
 
 #may-2012 .timeline-month {
@@ -321,8 +331,18 @@ nav li#contact-me.selected {
 #mcgill-image {
     position: absolute;
     height: 35px;
-    top: 784px;
-    left: 755px;
+    top: 72px;
+    left: 17px;
+}
+
+#mcgill-link {
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: transparent;
+    top: 710px;
+    left: 740px;
 }
 
 #august-2011 .timeline-month {
@@ -353,6 +373,122 @@ nav li#contact-me.selected {
     left: 704px;
 }
 
+#dentsubos-image {
+    position: absolute;
+    top: -25px;
+    left: -28px; 
+    width: 280px;  
+}
+
+#dentsubos-link {
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: transparent;
+    top: 1290px;
+    left: 740px;
+}
+
+#may-2011 .timeline-month {
+    top: 1355px;
+    left: 142px;
+}
+
+#may-2011 .timeline-year {
+    top: 1390px;
+    left: 150px;
+}
+
+#may-2011-heading {
+    top: 1290px;
+    left: 380px;
+}
+
+#may-2011-text {
+    top: 1400px;
+    left: 380px;
+    width: 320px;
+}
+
+#tv-mcgill-image {
+    position: absolute;
+    top: 48px;
+    left: 20px;  
+    width: 135px;  
+}
+
+#tvmcgill-link {
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: transparent;
+    top: 1610px;
+    left: 660px;
+}
+
+#jan-2011 .timeline-month {
+    top: 1655px;
+    left: 145px;
+}
+
+#jan-2011 .timeline-year {
+    top: 1690px;
+    left: 150px;
+}
+
+#jan-2011-heading {
+    top: 1630px;
+    left: 290px;
+}
+
+#jan-2011-text {
+    top: 1700px;
+    left: 290px;
+    width: 355px;
+}
+
+#yoshi-egg-image {
+    position: absolute;
+    height: 160px;
+    top: 1925px;
+    left: 719px;
+}
+
+#nov-2007 .timeline-month {
+    top: 1955px;
+    left: 145px;
+}
+
+#nov-2007 .timeline-year {
+    top: 1990px;
+    left: 150px;
+}
+
+#nov-2007-heading {
+    top: 1930px;
+    left: 380px;
+}
+
+#nov-2007-text {
+    top: 2000px;
+    left: 380px;
+    width: 300px;
+}
+
+#cv-text {
+    top: 2243px;
+    left: 135px;
+    font-size: 18px;
+}
+
+#cv-svg {
+    position: absolute;
+    width: 50px;
+    top: 2292px;
+    left: 148px;
+}
 
 /* ==========================================================================
    Things I Like Section
@@ -417,6 +553,8 @@ nav li#contact-me.selected {
     position: absolute;
     top: 15px;
     left: 705px;
+    background-image: url("/img/nyc.png");
+    background-size: 100%;: 
 }
 
 /*Panel 4*/
@@ -425,6 +563,8 @@ nav li#contact-me.selected {
     position: absolute;
     top: 360px;
     left: 15px;
+    background-image: url("/img/aix.png");
+    background-size: 100%;
 }
 
 /*Panel 5*/
@@ -508,6 +648,14 @@ nav li#contact-me.selected {
 }
 
 /*Panel 11*/
+
+#panel-11 {
+    position: absolute;
+    top: 1050px;
+    left: 360px;
+    background-image: url("/img/hayfield.png");
+    background-size: 100%;: 
+}
 
 /*Panel 12*/
 
