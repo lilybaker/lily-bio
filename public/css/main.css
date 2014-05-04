@@ -457,7 +457,7 @@ nav li#contact-me.selected {
 }
 
 #nov-2007 .timeline-month {
-    top: 1955px;
+    top: 1954px;
     left: 145px;
 }
 
@@ -480,14 +480,27 @@ nav li#contact-me.selected {
 #cv-text {
     top: 2243px;
     left: 135px;
-    font-size: 18px;
+    font-size: 22px;
+    font-family: 'Raleway' 
 }
 
 #cv-svg {
     position: absolute;
     width: 50px;
-    top: 2292px;
-    left: 148px;
+    top: 2295px;
+    left: 145px;
+    color: white;
+}
+
+
+#cv-link {
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: transparent;
+    top: 2240px;
+    left: 110px;
 }
 
 /* ==========================================================================
@@ -553,7 +566,7 @@ nav li#contact-me.selected {
     position: absolute;
     top: 15px;
     left: 705px;
-    background-image: url("/img/nyc.png");
+    background-image: url("/img/santorini.png");
     background-size: 100%;: 
 }
 
@@ -583,7 +596,7 @@ nav li#contact-me.selected {
     top: 60px;
     text-align: center;
     font-family:'Quicksand', sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     color: white;
     padding-left: 20px;
     padding-right: 20px;
