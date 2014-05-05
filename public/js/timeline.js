@@ -23,7 +23,7 @@ var circleData = [
   { "center_x": 170, "center_y": 2000, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#CFD1E1" },
   { "center_x": 800, "center_y": 2000, "radius": 80, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
   // timeline bottom
-  { "center_x": 170, "center_y": 2300, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#FFD683" },
+  { "center_x": 170, "center_y": 2300, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#A8CCE8" },
 
 ];
 
