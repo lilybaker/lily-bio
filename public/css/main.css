@@ -16,7 +16,7 @@
 #logo {
     position: relative;
     margin: 15px 0;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 36px;
     letter-spacing: 6px;
     color: #666666;
@@ -53,7 +53,7 @@ nav li {
     margin: 0 15px;
     padding: 0 3px;
     font-size: 14px;
-    font-family:'Quicksand', sans-serif;
+    font-family:'Raleway', sans-serif;
     color: #222222;
     transition: background-color 0.8s;
 }
@@ -104,8 +104,9 @@ nav li#contact-me.selected {
 #header #arrow {
     position: absolute;
     top: 420px;
+    left: 500px;
     height: 60px;
-    width: inherit;
+    width: 60px;
 }
 
 #content {
@@ -142,7 +143,7 @@ nav li#contact-me.selected {
     width: 160px;
     height: 100px;
     text-align: center;
-    font-family:'Quicksand', sans-serif;
+    font-family:'Raleway', sans-serif;
     font-size: 16px;
     color: white;
 }
@@ -158,27 +159,27 @@ nav li#contact-me.selected {
 }
 
 #australia-text {
-    top: 400px;
+    top: 416px;
     left: 790px;
 }
 
 #canada-heading {
-    top: 627px;
+    top: 628px;
     left: 333px;
 }
 
 #canada-text {
-    top: 631px;
+    top: 638px;
     left: 650px;
 }
 
 #uk-heading {
-    top: 847px;
+    top: 848px;
     left: 473px;
 }
 
 #uk-text {
-    top: 842px;
+    top: 855px;
     left: 789px;
 }
 
@@ -190,6 +191,9 @@ nav li#contact-me.selected {
     border: solid white 3px;
     top: 150px;
     left: 630px;
+    overflow: hidden;
+    background-image: url("/img/lily-photo.png");
+    background-size: 100%;
 }
 
 #world-map {
@@ -205,13 +209,13 @@ nav li#contact-me.selected {
 
 #my-timeline-article {
     height: 2400px;
-    background-color: #c3e3dc;
+    background-color: #A0CEC6;
 }
 
 .timeline-year {
     position: absolute;
     text-align: center;
-    font-family:'Quicksand', sans-serif;
+    font-family:'Raleway', sans-serif;
     font-size: 18px;
     color: white;
 }
@@ -233,7 +237,7 @@ nav li#contact-me.selected {
 
 .timeline-text {
     position: absolute;
-    font-family:'Quicksand', sans-serif;
+    font-family:'Raleway', sans-serif;
     font-size: 16px;
     color: white;
 }
@@ -260,7 +264,7 @@ nav li#contact-me.selected {
 #june-2013-text {
     top: 200px;
     left: 460px;
-    width: 300px;
+    width: 277px;
 }
 
 #mushroom-image {
@@ -287,7 +291,7 @@ nav li#contact-me.selected {
 #august-2012-text {
     top: 500px;
     left: 330px;
-    width: 300px;
+    width: 299px;
 }
 
 #steak-image {
@@ -325,7 +329,7 @@ nav li#contact-me.selected {
 #may-2012-text {
     top: 800px;
     left: 440px;
-    width: 300px;
+    width: 280px;
 }
 
 #mcgill-image {
@@ -408,7 +412,7 @@ nav li#contact-me.selected {
 #may-2011-text {
     top: 1400px;
     left: 380px;
-    width: 320px;
+    width: 331px;
 }
 
 #tv-mcgill-image {
@@ -446,7 +450,7 @@ nav li#contact-me.selected {
 #jan-2011-text {
     top: 1700px;
     left: 290px;
-    width: 355px;
+    width: 329px;
 }
 
 #yoshi-egg-image {
@@ -525,7 +529,7 @@ nav li#contact-me.selected {
 .geo-text {
     height: 20px;
     position: absolute;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: white;
     opacity: 0.87;
     top: 272px;
@@ -595,7 +599,7 @@ nav li#contact-me.selected {
     position: absolute;
     top: 70px;
     text-align: center;
-    font-family:'Quicksand', sans-serif;
+    font-family:'Raleway', sans-serif;
     font-size: 18px;
     color: white;
     padding-left: 20px;
@@ -869,7 +873,7 @@ nav li#contact-me.selected {
 }
 
 #footer p {
-    font-family:'Quicksand', sans-serif;
+    font-family:'Raleway', sans-serif;
     font-size: 12px;
     color: #222222;
 }
