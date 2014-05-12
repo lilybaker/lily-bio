@@ -2,25 +2,25 @@ var circleData = [
   // timeline top
   { "center_x": 170, "center_y": 80, "radius": 8, "border_width": 3, "border_color": "white", "fill_color": "none" },
   // june 2013
-  { "center_x": 170, "center_y": 200, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#CFD1E1" },
+  { "center_x": 170, "center_y": 200, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#AB9AC7" },
   { "center_x": 850, "center_y": 200, "radius": 80, "border_width": 3, "border_color": "white", "fill_color": "#ffe7b8" },
   // august 2012
-  { "center_x": 170, "center_y": 500, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#CFD1E1" },
+  { "center_x": 170, "center_y": 500, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#AB9AC7" },
   { "center_x": 750, "center_y": 500, "radius": 110, "border_width": 3, "border_color": "white", "fill_color": "#E6E6E6" },
   // may 2012
-  { "center_x": 170, "center_y": 800, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#CFD1E1" },
+  { "center_x": 170, "center_y": 800, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#AB9AC7" },
   { "center_x": 830, "center_y": 800, "radius": 90, "border_width": 3, "border_color": "white", "fill_color": "#ffe3e4" },
   // august 2011
-  { "center_x": 170, "center_y": 1100, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#CFD1E1" },
+  { "center_x": 170, "center_y": 1100, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#AB9AC7" },
   { "center_x": 750, "center_y": 1100, "radius": 80, "border_width": 3, "border_color": "white", "fill_color": "#a8cce8" },
   // may 2011
-  { "center_x": 170, "center_y": 1400, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#CFD1E1" },
+  { "center_x": 170, "center_y": 1400, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#AB9AC7" },
   { "center_x": 850, "center_y": 1400, "radius": 110, "border_width": 3, "border_color": "white", "fill_color": "#black" },
   // jan 2011
-  { "center_x": 170, "center_y": 1700, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#CFD1E1" },
+  { "center_x": 170, "center_y": 1700, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#AB9AC7" },
   { "center_x": 750, "center_y": 1700, "radius": 90, "border_width": 3, "border_color": "white", "fill_color": "#B06A6C" },
   // nov 2007
-  { "center_x": 170, "center_y": 2000, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#CFD1E1" },
+  { "center_x": 170, "center_y": 2000, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#AB9AC7" },
   { "center_x": 800, "center_y": 2000, "radius": 80, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
   // timeline bottom
   { "center_x": 170, "center_y": 2300, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#A8CCE8" },

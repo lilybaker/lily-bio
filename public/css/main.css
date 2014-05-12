@@ -240,6 +240,7 @@ nav li#contact-me.selected {
     font-family:'Raleway', sans-serif;
     font-size: 16px;
     color: white;
+    text-align: justify;
 }
 
 .timeline-image {
@@ -291,7 +292,7 @@ nav li#contact-me.selected {
 #august-2012-text {
     top: 500px;
     left: 330px;
-    width: 299px;
+    width: 262px;
 }
 
 #steak-image {
@@ -329,7 +330,7 @@ nav li#contact-me.selected {
 #may-2012-text {
     top: 800px;
     left: 440px;
-    width: 280px;
+    width: 252px;
 }
 
 #mcgill-image {
@@ -367,7 +368,7 @@ nav li#contact-me.selected {
 #august-2011-text {
     top: 1100px;
     left: 360px;
-    width: 290px;
+    width: 262px;
 }
 
 #cloud-image {
@@ -412,7 +413,7 @@ nav li#contact-me.selected {
 #may-2011-text {
     top: 1400px;
     left: 380px;
-    width: 331px;
+    width: 282px;
 }
 
 #tv-mcgill-image {
@@ -450,7 +451,7 @@ nav li#contact-me.selected {
 #jan-2011-text {
     top: 1700px;
     left: 290px;
-    width: 329px;
+    width: 320px;
 }
 
 #yoshi-egg-image {
