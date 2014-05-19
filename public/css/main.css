@@ -208,7 +208,7 @@ nav li#contact-me.selected {
    ========================================================================== */
 
 #my-timeline-article {
-    height: 2400px;
+    height: 2800px;
     background-color: #A0CEC6;
 }
 
@@ -247,50 +247,77 @@ nav li#contact-me.selected {
     position: absolute;
 }
 
+#may-2014 .timeline-month {
+    top: 135px;
+    left: 143px;
+}
+
+#may-2014 .timeline-year {
+    top: 170px;
+    left: 150px;
+}
+
+#may-2014-heading {
+    top: 75px;
+    left: 360px;
+}
+
+#may-2014-text {
+    top: 180px;
+    left: 360px;
+    width: 277px;
+}
+
+#mushroom-image-2 {
+    height: 110px;
+    top: 130px;
+    left: 696px;
+}
+
 #june-2013 .timeline-month {
-    top: 156px;
+    top: 456px;
     left: 138px;
 }
 
 #june-2013 .timeline-year {
-    top: 191px;
+    top: 491px;
     left: 149px;
 }
 
 #june-2013-heading {
-    top: 90px;
-    left: 460px;
+    top: 390px;
+    left: 450px;
 }
 
 #june-2013-text {
-    top: 200px;
-    left: 460px;
-    width: 277px;
+    top: 500px;
+    left: 450px;
+    width: 255px;
 }
 
 #mushroom-image {
     height: 110px;
-    top: 142px;
+    top: 442px;
     left: 795px;
 }
 
 #august-2012 .timeline-month {
-    top: 457px;
+    top: 757px;
     left: 122px;
 }
 
 #august-2012 .timeline-year {
-    top: 491px;
+    top: 791px;
     left: 150px;
 }
 
 #august-2012-heading {
-    top: 427px;
+    top: 727px;
     left: 330px;
 }
 
 #august-2012-text {
-    top: 500px;
+    top: 800px;
     left: 330px;
     width: 262px;
 }
@@ -308,27 +335,27 @@ nav li#contact-me.selected {
     border-radius: 50%;
     position: absolute;
     background-color: transparent;
-    top: 390px;
+    top: 690px;
     left: 640px;
 }
 
 #may-2012 .timeline-month {
-    top: 753px;
+    top: 1053px;
     left: 143px;
 }
 
 #may-2012 .timeline-year {
-    top: 788px;
+    top: 1088px;
     left: 150px;
 }
 
 #may-2012-heading {
-    top: 693px;
+    top: 993px;
     left: 440px;
 }
 
 #may-2012-text {
-    top: 800px;
+    top: 1100px;
     left: 440px;
     width: 252px;
 }
@@ -346,27 +373,27 @@ nav li#contact-me.selected {
     border-radius: 50%;
     position: absolute;
     background-color: transparent;
-    top: 710px;
+    top: 1010px;
     left: 740px;
 }
 
 #august-2011 .timeline-month {
-    top: 1057px;
+    top: 1357px;
     left: 122px;
 }
 
 #august-2011 .timeline-year {
-    top: 1091px;
+    top: 1391px;
     left: 150px;
 }
 
 #august-2011-heading {
-    top: 993px;
+    top: 1293px;
     left: 360px;
 }
 
 #august-2011-text {
-    top: 1100px;
+    top: 1400px;
     left: 360px;
     width: 262px;
 }
@@ -374,7 +401,7 @@ nav li#contact-me.selected {
 #cloud-image {
     position: absolute;
     height: 90px;
-    top: 1055px;
+    top: 1355px;
     left: 704px;
 }
 
@@ -391,27 +418,27 @@ nav li#contact-me.selected {
     border-radius: 50%;
     position: absolute;
     background-color: transparent;
-    top: 1290px;
+    top: 1590px;
     left: 740px;
 }
 
 #may-2011 .timeline-month {
-    top: 1355px;
+    top: 1655px;
     left: 142px;
 }
 
 #may-2011 .timeline-year {
-    top: 1390px;
+    top: 1690px;
     left: 150px;
 }
 
 #may-2011-heading {
-    top: 1290px;
+    top: 1590px;
     left: 380px;
 }
 
 #may-2011-text {
-    top: 1400px;
+    top: 1700px;
     left: 380px;
     width: 282px;
 }
@@ -429,27 +456,27 @@ nav li#contact-me.selected {
     border-radius: 50%;
     position: absolute;
     background-color: transparent;
-    top: 1610px;
+    top: 1910px;
     left: 660px;
 }
 
 #jan-2011 .timeline-month {
-    top: 1655px;
+    top: 1955px;
     left: 145px;
 }
 
 #jan-2011 .timeline-year {
-    top: 1690px;
+    top: 1990px;
     left: 150px;
 }
 
 #jan-2011-heading {
-    top: 1630px;
+    top: 1930px;
     left: 290px;
 }
 
 #jan-2011-text {
-    top: 1700px;
+    top: 2000px;
     left: 290px;
     width: 320px;
 }
@@ -457,33 +484,33 @@ nav li#contact-me.selected {
 #yoshi-egg-image {
     position: absolute;
     height: 160px;
-    top: 1925px;
+    top: 2225px;
     left: 719px;
 }
 
 #nov-2007 .timeline-month {
-    top: 1954px;
+    top: 2254px;
     left: 145px;
 }
 
 #nov-2007 .timeline-year {
-    top: 1990px;
+    top: 2290px;
     left: 150px;
 }
 
 #nov-2007-heading {
-    top: 1930px;
+    top: 2230px;
     left: 380px;
 }
 
 #nov-2007-text {
-    top: 2000px;
+    top: 2300px;
     left: 380px;
     width: 300px;
 }
 
 #cv-text {
-    top: 2243px;
+    top: 2543px;
     left: 135px;
     font-size: 22px;
     font-family: 'Raleway' 
@@ -492,7 +519,7 @@ nav li#contact-me.selected {
 #cv-svg {
     position: absolute;
     width: 50px;
-    top: 2295px;
+    top: 2595px;
     left: 145px;
     color: white;
 }
@@ -504,7 +531,7 @@ nav li#contact-me.selected {
     border-radius: 50%;
     position: absolute;
     background-color: transparent;
-    top: 2240px;
+    top: 2540px;
     left: 110px;
 }
 
