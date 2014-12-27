@@ -32,7 +32,7 @@ var lineData = [
   // timeline connectors
   { "start_x": 170, "start_y": 240, "end_x": 170, "end_y": 440, "width": 3, "color" : "white" },
   { "start_x": 170, "start_y": 560, "end_x": 170, "end_y": 740, "width": 3, "color" : "white" },
-  { "start_x": 170, "start_y": 860, "end_x": 170, "end_y": 1040, "width": 3, "color" : "white" },  
+  { "start_x": 170, "start_y": 860, "end_x": 170, "end_y": 1040, "width": 3, "color" : "white" },
   { "start_x": 170, "start_y": 1160, "end_x": 170, "end_y": 1340, "width": 3, "color" : "white" },
   { "start_x": 170, "start_y": 1460, "end_x": 170, "end_y": 1640, "width": 3, "color" : "white" },
   { "start_x": 170, "start_y": 1760, "end_x": 170, "end_y": 1940, "width": 3, "color" : "white" },
@@ -61,8 +61,8 @@ var lineData = [
 ];
 
 var svgContainer = d3.select("#my-timeline-article").append("svg")
-                                    .attr("width", $("#work-article").width())
-                                    .attr("height", $("#work-article").height())
+                                    .attr("width", $("#my-timeline-article").width())
+                                    .attr("height", $("#my-timeline-article").height())
                                     .attr("display", "block");
 
 var circles = svgContainer.selectAll("circle")
