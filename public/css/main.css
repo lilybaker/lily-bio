@@ -247,6 +247,45 @@ nav li#contact-me.selected {
     position: absolute;
 }
 
+
+#oct-2014 .timeline-month {
+  top: 135px;
+  left: 143px;
+}
+
+#oct-2014 .timeline-year {
+  top: 170px;
+  left: 150px;
+}
+
+
+#oct-2014-heading {
+  top: 75px;
+  left: 360px;
+}
+
+#oct-2014-text {
+  top: 180px;
+  left: 360px;
+}
+
+#tw-logo {
+  position: absolute;
+  height: 70px;
+  top: 75px;
+  left: -5px;
+}
+
+#tw-link {
+  height: 220px;
+  width: 220px;
+  border-radius: 50%;
+  position: absolute;
+  background-color: transparent;
+  top: 70px;
+  left: 740px;
+}
+
 #may-2014 .timeline-month {
     top: 535px;
     left: 143px;
