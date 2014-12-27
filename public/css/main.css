@@ -208,7 +208,7 @@ nav li#contact-me.selected {
    ========================================================================== */
 
 #my-timeline-article {
-    height: 2800px;
+    height: 3200px;
     background-color: #A0CEC6;
 }
 
@@ -248,76 +248,76 @@ nav li#contact-me.selected {
 }
 
 #may-2014 .timeline-month {
-    top: 135px;
+    top: 535px;
     left: 143px;
 }
 
 #may-2014 .timeline-year {
-    top: 170px;
+    top: 570px;
     left: 150px;
 }
 
 #may-2014-heading {
-    top: 75px;
+    top: 475px;
     left: 360px;
 }
 
 #may-2014-text {
-    top: 180px;
+    top: 580px;
     left: 360px;
     width: 277px;
 }
 
 #mushroom-image-2 {
     height: 110px;
-    top: 130px;
+    top: 530px;
     left: 696px;
 }
 
 #june-2013 .timeline-month {
-    top: 456px;
+    top: 856px;
     left: 138px;
 }
 
 #june-2013 .timeline-year {
-    top: 491px;
+    top: 891px;
     left: 149px;
 }
 
 #june-2013-heading {
-    top: 390px;
+    top: 790px;
     left: 450px;
 }
 
 #june-2013-text {
-    top: 500px;
+    top: 900px;
     left: 450px;
     width: 255px;
 }
 
 #mushroom-image {
     height: 110px;
-    top: 442px;
+    top: 842px;
     left: 795px;
 }
 
 #august-2012 .timeline-month {
-    top: 757px;
+    top: 1157px;
     left: 122px;
 }
 
 #august-2012 .timeline-year {
-    top: 791px;
+    top: 1191px;
     left: 150px;
 }
 
 #august-2012-heading {
-    top: 727px;
+    top: 1127px;
     left: 330px;
 }
 
 #august-2012-text {
-    top: 800px;
+    top: 1200px;
     left: 330px;
     width: 262px;
 }
@@ -335,27 +335,27 @@ nav li#contact-me.selected {
     border-radius: 50%;
     position: absolute;
     background-color: transparent;
-    top: 690px;
+    top: 1090px;
     left: 640px;
 }
 
 #may-2012 .timeline-month {
-    top: 1053px;
+    top: 1453px;
     left: 143px;
 }
 
 #may-2012 .timeline-year {
-    top: 1088px;
+    top: 1488px;
     left: 150px;
 }
 
 #may-2012-heading {
-    top: 993px;
+    top: 1393px;
     left: 440px;
 }
 
 #may-2012-text {
-    top: 1100px;
+    top: 1500px;
     left: 440px;
     width: 252px;
 }
@@ -373,27 +373,27 @@ nav li#contact-me.selected {
     border-radius: 50%;
     position: absolute;
     background-color: transparent;
-    top: 1010px;
+    top: 1410px;
     left: 740px;
 }
 
 #august-2011 .timeline-month {
-    top: 1357px;
+    top: 1757px;
     left: 122px;
 }
 
 #august-2011 .timeline-year {
-    top: 1391px;
+    top: 1791px;
     left: 150px;
 }
 
 #august-2011-heading {
-    top: 1293px;
+    top: 1693px;
     left: 360px;
 }
 
 #august-2011-text {
-    top: 1400px;
+    top: 1800px;
     left: 360px;
     width: 262px;
 }
@@ -401,15 +401,15 @@ nav li#contact-me.selected {
 #cloud-image {
     position: absolute;
     height: 90px;
-    top: 1355px;
+    top: 1755px;
     left: 704px;
 }
 
 #dentsubos-image {
     position: absolute;
     top: -25px;
-    left: -28px; 
-    width: 280px;  
+    left: -28px;
+    width: 280px;
 }
 
 #dentsubos-link {
@@ -418,27 +418,27 @@ nav li#contact-me.selected {
     border-radius: 50%;
     position: absolute;
     background-color: transparent;
-    top: 1590px;
+    top: 1990px;
     left: 740px;
 }
 
 #may-2011 .timeline-month {
-    top: 1655px;
+    top: 2055px;
     left: 142px;
 }
 
 #may-2011 .timeline-year {
-    top: 1690px;
+    top: 2090px;
     left: 150px;
 }
 
 #may-2011-heading {
-    top: 1590px;
+    top: 1990px;
     left: 380px;
 }
 
 #may-2011-text {
-    top: 1700px;
+    top: 2100px;
     left: 380px;
     width: 282px;
 }
@@ -446,8 +446,8 @@ nav li#contact-me.selected {
 #tv-mcgill-image {
     position: absolute;
     top: 48px;
-    left: 20px;  
-    width: 135px;  
+    left: 20px;
+    width: 135px;
 }
 
 #tvmcgill-link {
@@ -456,27 +456,27 @@ nav li#contact-me.selected {
     border-radius: 50%;
     position: absolute;
     background-color: transparent;
-    top: 1910px;
+    top: 2310px;
     left: 660px;
 }
 
 #jan-2011 .timeline-month {
-    top: 1955px;
+    top: 2355px;
     left: 145px;
 }
 
 #jan-2011 .timeline-year {
-    top: 1990px;
+    top: 2390px;
     left: 150px;
 }
 
 #jan-2011-heading {
-    top: 1930px;
+    top: 2330px;
     left: 290px;
 }
 
 #jan-2011-text {
-    top: 2000px;
+    top: 2400px;
     left: 290px;
     width: 320px;
 }
@@ -484,42 +484,42 @@ nav li#contact-me.selected {
 #yoshi-egg-image {
     position: absolute;
     height: 160px;
-    top: 2225px;
+    top: 2625px;
     left: 719px;
 }
 
 #nov-2007 .timeline-month {
-    top: 2254px;
+    top: 2654px;
     left: 145px;
 }
 
 #nov-2007 .timeline-year {
-    top: 2290px;
+    top: 2690px;
     left: 150px;
 }
 
 #nov-2007-heading {
-    top: 2230px;
+    top: 2630px;
     left: 380px;
 }
 
 #nov-2007-text {
-    top: 2300px;
+    top: 2700px;
     left: 380px;
     width: 300px;
 }
 
 #cv-text {
-    top: 2543px;
+    top: 2943px;
     left: 135px;
     font-size: 22px;
-    font-family: 'Raleway' 
+    font-family: 'Raleway'
 }
 
 #cv-svg {
     position: absolute;
     width: 50px;
-    top: 2595px;
+    top: 2995px;
     left: 145px;
     color: white;
 }
@@ -531,7 +531,7 @@ nav li#contact-me.selected {
     border-radius: 50%;
     position: absolute;
     background-color: transparent;
-    top: 2540px;
+    top: 2940px;
     left: 110px;
 }
 
@@ -599,7 +599,7 @@ nav li#contact-me.selected {
     top: 15px;
     left: 705px;
     background-image: url("/img/santorini.png");
-    background-size: 100%;: 
+    background-size: 100%;:
 }
 
 /*Panel 4*/
@@ -641,7 +641,7 @@ nav li#contact-me.selected {
     top: 360px;
     left: 705px;
     background-image: url("/img/cambridge.png");
-    background-size: 100%;: 
+    background-size: 100%;:
 }
 
 /*Panel 7*/
@@ -651,7 +651,7 @@ nav li#contact-me.selected {
     top: 705px;
     left: 15px;
     background-image: url("/img/athens.png");
-    background-size: 100%;: 
+    background-size: 100%;:
 }
 
 /*Panel 8*/
@@ -661,7 +661,7 @@ nav li#contact-me.selected {
     top: 705px;
     left: 360px;
     background-image: url("/img/tremblant.png");
-    background-size: 100%;: 
+    background-size: 100%;:
 }
 
 #tremblant-marker {
@@ -679,7 +679,7 @@ nav li#contact-me.selected {
     top: 705px;
     left: 705px;
     background-image: url("/img/stradbroke.png");
-    background-size: 100%;: 
+    background-size: 100%;:
 }
 
 /*Panel 10*/
@@ -689,7 +689,7 @@ nav li#contact-me.selected {
     top: 1050px;
     left: 15px;
     background-image: url("/img/chamonix.png");
-    background-size: 100%;: 
+    background-size: 100%;:
 }
 
 /*Panel 11*/
@@ -699,7 +699,7 @@ nav li#contact-me.selected {
     top: 1050px;
     left: 360px;
     background-image: url("/img/hayfield.png");
-    background-size: 100%;: 
+    background-size: 100%;:
 }
 
 /*Panel 12*/
@@ -709,7 +709,7 @@ nav li#contact-me.selected {
     top: 1050px;
     left: 705px;
     background-image: url("/img/istanbul.png");
-    background-size: 100%;: 
+    background-size: 100%;:
 }
 
 /*Panel 13*/
@@ -719,7 +719,7 @@ nav li#contact-me.selected {
     top: 1395px;
     left: 15px;
     background-image: url("/img/portobello.png");
-    background-size: 100%;: 
+    background-size: 100%;:
 }
 
 /*Panel 14*/
@@ -729,7 +729,7 @@ nav li#contact-me.selected {
     top: 1395px;
     left: 360px;
     background-image: url("/img/versailles.png");
-    background-size: 100%;: 
+    background-size: 100%;:
 }
 
 /*Panel 15*/
@@ -739,7 +739,7 @@ nav li#contact-me.selected {
     top: 1395px;
     left: 705px;
     background-image: url("/img/montreal.png");
-    background-size: 100%;: 
+    background-size: 100%;:
 }
 
 /* ==========================================================================

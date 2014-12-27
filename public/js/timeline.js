@@ -1,60 +1,60 @@
 var circleData = [
   // may 2014
-  { "center_x": 170, "center_y": 180, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
-  { "center_x": 750, "center_y": 180, "radius": 80, "border_width": 3, "border_color": "white", "fill_color": "#eac7ca" },
+  { "center_x": 170, "center_y": 580, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
+  { "center_x": 750, "center_y": 580, "radius": 80, "border_width": 3, "border_color": "white", "fill_color": "#eac7ca" },
   // june 2013
-  { "center_x": 170, "center_y": 500, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
-  { "center_x": 850, "center_y": 500, "radius": 80, "border_width": 3, "border_color": "white", "fill_color": "#ffe7b8" },
+  { "center_x": 170, "center_y": 900, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
+  { "center_x": 850, "center_y": 900, "radius": 80, "border_width": 3, "border_color": "white", "fill_color": "#ffe7b8" },
   // august 2012
-  { "center_x": 170, "center_y": 800, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
-  { "center_x": 750, "center_y": 800, "radius": 110, "border_width": 3, "border_color": "white", "fill_color": "#E6E6E6" },
+  { "center_x": 170, "center_y": 1200, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
+  { "center_x": 750, "center_y": 1200, "radius": 110, "border_width": 3, "border_color": "white", "fill_color": "#E6E6E6" },
   // may 2012
-  { "center_x": 170, "center_y": 1100, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
-  { "center_x": 830, "center_y": 1100, "radius": 90, "border_width": 3, "border_color": "white", "fill_color": "#ffe3e4" },
+  { "center_x": 170, "center_y": 1500, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
+  { "center_x": 830, "center_y": 1500, "radius": 90, "border_width": 3, "border_color": "white", "fill_color": "#ffe3e4" },
   // august 2011
-  { "center_x": 170, "center_y": 1400, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
-  { "center_x": 750, "center_y": 1400, "radius": 80, "border_width": 3, "border_color": "white", "fill_color": "#a8cce8" },
+  { "center_x": 170, "center_y": 1800, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
+  { "center_x": 750, "center_y": 1800, "radius": 80, "border_width": 3, "border_color": "white", "fill_color": "#a8cce8" },
   // may 2011
-  { "center_x": 170, "center_y": 1700, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
-  { "center_x": 850, "center_y": 1700, "radius": 110, "border_width": 3, "border_color": "white", "fill_color": "#black" },
+  { "center_x": 170, "center_y": 2100, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
+  { "center_x": 850, "center_y": 2100, "radius": 110, "border_width": 3, "border_color": "white", "fill_color": "#black" },
   // jan 2011
-  { "center_x": 170, "center_y": 2000, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
-  { "center_x": 750, "center_y": 2000, "radius": 90, "border_width": 3, "border_color": "white", "fill_color": "#B06A6C" },
+  { "center_x": 170, "center_y": 2400, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
+  { "center_x": 750, "center_y": 2400, "radius": 90, "border_width": 3, "border_color": "white", "fill_color": "#B06A6C" },
   // nov 2007
-  { "center_x": 170, "center_y": 2300, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
-  { "center_x": 800, "center_y": 2300, "radius": 80, "border_width": 3, "border_color": "white", "fill_color": "#C1C5DD" },
+  { "center_x": 170, "center_y": 2700, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
+  { "center_x": 800, "center_y": 2700, "radius": 80, "border_width": 3, "border_color": "white", "fill_color": "#C1C5DD" },
   // timeline bottom
-  { "center_x": 170, "center_y": 2600, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#A8CCE8" }
+  { "center_x": 170, "center_y": 3000, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#A8CCE8" }
 
 ];
 
 var lineData = [
   // timeline connectors
-  { "start_x": 170, "start_y": 240, "end_x": 170, "end_y": 440, "width": 3, "color" : "white" },
-  { "start_x": 170, "start_y": 560, "end_x": 170, "end_y": 740, "width": 3, "color" : "white" },
-  { "start_x": 170, "start_y": 860, "end_x": 170, "end_y": 1040, "width": 3, "color" : "white" },
-  { "start_x": 170, "start_y": 1160, "end_x": 170, "end_y": 1340, "width": 3, "color" : "white" },
-  { "start_x": 170, "start_y": 1460, "end_x": 170, "end_y": 1640, "width": 3, "color" : "white" },
-  { "start_x": 170, "start_y": 1760, "end_x": 170, "end_y": 1940, "width": 3, "color" : "white" },
-  { "start_x": 170, "start_y": 2060, "end_x": 170, "end_y": 2240, "width": 3, "color" : "white" },
-  { "start_x": 170, "start_y": 2360, "end_x": 170, "end_y": 2540, "width": 3, "color" : "white" },
+  { "start_x": 170, "start_y": 640, "end_x": 170, "end_y": 840, "width": 3, "color" : "white" },
+  { "start_x": 170, "start_y": 960, "end_x": 170, "end_y": 1140, "width": 3, "color" : "white" },
+  { "start_x": 170, "start_y": 1260, "end_x": 170, "end_y": 1440, "width": 3, "color" : "white" },
+  { "start_x": 170, "start_y": 1560, "end_x": 170, "end_y": 1740, "width": 3, "color" : "white" },
+  { "start_x": 170, "start_y": 1860, "end_x": 170, "end_y": 2040, "width": 3, "color" : "white" },
+  { "start_x": 170, "start_y": 2160, "end_x": 170, "end_y": 2340, "width": 3, "color" : "white" },
+  { "start_x": 170, "start_y": 2460, "end_x": 170, "end_y": 2640, "width": 3, "color" : "white" },
+  { "start_x": 170, "start_y": 2760, "end_x": 170, "end_y": 2940, "width": 3, "color" : "white" },
 
   // may 2014
-  { "start_x": 230, "start_y": 180, "end_x": 670, "end_y": 180, "width": 3, "color" : "white" },
+  { "start_x": 230, "start_y": 580, "end_x": 670, "end_y": 580, "width": 3, "color" : "white" },
   // june 2013
-  { "start_x": 230, "start_y": 500, "end_x": 770, "end_y": 500, "width": 3, "color" : "white" },
+  { "start_x": 230, "start_y": 900, "end_x": 770, "end_y": 900, "width": 3, "color" : "white" },
   // august 2012
-  { "start_x": 230, "start_y": 800, "end_x": 640, "end_y": 800, "width": 3, "color" : "white" },
+  { "start_x": 230, "start_y": 1200, "end_x": 640, "end_y": 1200, "width": 3, "color" : "white" },
   // may 2012
-  { "start_x": 230, "start_y": 1100, "end_x": 740, "end_y": 1100, "width": 3, "color" : "white" },
+  { "start_x": 230, "start_y": 1500, "end_x": 740, "end_y": 1500, "width": 3, "color" : "white" },
   // august 2011
-  { "start_x": 230, "start_y": 1400, "end_x": 670, "end_y": 1400, "width": 3, "color" : "white" },
+  { "start_x": 230, "start_y": 1800, "end_x": 670, "end_y": 1800, "width": 3, "color" : "white" },
   // may 2011
-  { "start_x": 230, "start_y": 1700, "end_x": 740, "end_y": 1700, "width": 3, "color" : "white" },
+  { "start_x": 230, "start_y": 2100, "end_x": 740, "end_y": 2100, "width": 3, "color" : "white" },
   // jan 2011
-  { "start_x": 230, "start_y": 2000, "end_x": 660, "end_y": 2000, "width": 3, "color" : "white" },
+  { "start_x": 230, "start_y": 2400, "end_x": 660, "end_y": 2400, "width": 3, "color" : "white" },
   // nov 2007
-  { "start_x": 230, "start_y": 2300, "end_x": 720, "end_y": 2300, "width": 3, "color" : "white" },
+  { "start_x": 230, "start_y": 2700, "end_x": 720, "end_y": 2700, "width": 3, "color" : "white" },
 
 
 
