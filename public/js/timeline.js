@@ -1,7 +1,7 @@
 var circleData = [
   // oct 2014
-  { "center_x": 170, "center_y": 180, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
-  { "center_x": 850, "center_y": 180, "radius": 110, "border_width": 3, "border_color": "white", "fill_color": "#CEE4F1" },
+{ "center_x": 170, "center_y": 280, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
+  { "center_x": 850, "center_y": 280, "radius": 110, "border_width": 3, "border_color": "white", "fill_color": "#CEE4F1" },
   // may 2014
   { "center_x": 170, "center_y": 580, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
   { "center_x": 750, "center_y": 580, "radius": 80, "border_width": 3, "border_color": "white", "fill_color": "#eac7ca" },
@@ -33,6 +33,7 @@ var circleData = [
 
 var lineData = [
   // timeline connectors
+{ "start_x": 170, "start_y": 340, "end_x": 170, "end_y": 520, "width": 3, "color" : "white" },
   { "start_x": 170, "start_y": 640, "end_x": 170, "end_y": 840, "width": 3, "color" : "white" },
   { "start_x": 170, "start_y": 960, "end_x": 170, "end_y": 1140, "width": 3, "color" : "white" },
   { "start_x": 170, "start_y": 1260, "end_x": 170, "end_y": 1440, "width": 3, "color" : "white" },

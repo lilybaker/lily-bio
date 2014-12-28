@@ -249,23 +249,24 @@ nav li#contact-me.selected {
 
 
 #oct-2014 .timeline-month {
-  top: 135px;
-  left: 143px;
+  top: 242px;
+  left: 119px;
+  font-size: 21px;
 }
 
 #oct-2014 .timeline-year {
-  top: 170px;
+  top: 272px;
   left: 150px;
 }
 
 
 #oct-2014-heading {
-  top: 75px;
+  top: 175px;
   left: 360px;
 }
 
 #oct-2014-text {
-  top: 180px;
+  top: 280px;
   left: 360px;
 }
 
@@ -282,7 +283,7 @@ nav li#contact-me.selected {
   border-radius: 50%;
   position: absolute;
   background-color: transparent;
-  top: 70px;
+  top: 170px;
   left: 740px;
 }
 
