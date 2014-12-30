@@ -192,7 +192,7 @@ nav li#contact-me.selected {
     top: 150px;
     left: 630px;
     overflow: hidden;
-    background-image: url("/img/lily-photo.png");
+    background-image: url("/img/india.png");
     background-size: 100%;
 }
 
@@ -208,7 +208,7 @@ nav li#contact-me.selected {
    ========================================================================== */
 
 #my-timeline-article {
-    height: 3200px;
+    height: 3110px;
     background-color: #A0CEC6;
 }
 
@@ -249,24 +249,24 @@ nav li#contact-me.selected {
 
 
 #oct-2014 .timeline-month {
-  top: 242px;
+  top: 152px;
   left: 119px;
   font-size: 21px;
 }
 
 #oct-2014 .timeline-year {
-  top: 272px;
+  top: 182px;
   left: 150px;
 }
 
 
 #oct-2014-heading {
-  top: 175px;
+  top: 124px;
   left: 360px;
 }
 
 #oct-2014-text {
-  top: 280px;
+  top: 190px;
   left: 360px;
 }
 
@@ -283,81 +283,81 @@ nav li#contact-me.selected {
   border-radius: 50%;
   position: absolute;
   background-color: transparent;
-  top: 170px;
+  top: 80px;
   left: 740px;
 }
 
 #may-2014 .timeline-month {
-    top: 535px;
+    top: 445px;
     left: 143px;
 }
 
 #may-2014 .timeline-year {
-    top: 570px;
+    top: 480px;
     left: 150px;
 }
 
 #may-2014-heading {
-    top: 475px;
+    top: 385px;
     left: 360px;
 }
 
 #may-2014-text {
-    top: 580px;
+    top: 490px;
     left: 360px;
     width: 277px;
 }
 
 #mushroom-image-2 {
     height: 110px;
-    top: 530px;
+    top: 440px;
     left: 696px;
 }
 
 #june-2013 .timeline-month {
-    top: 856px;
+    top: 766px;
     left: 138px;
 }
 
 #june-2013 .timeline-year {
-    top: 891px;
+    top: 800px;
     left: 149px;
 }
 
 #june-2013-heading {
-    top: 790px;
+    top: 700px;
     left: 450px;
 }
 
 #june-2013-text {
-    top: 900px;
+    top: 810px;
     left: 450px;
     width: 255px;
 }
 
 #mushroom-image {
     height: 110px;
-    top: 842px;
+    top: 752px;
     left: 795px;
 }
 
 #august-2012 .timeline-month {
-    top: 1157px;
+    top: 1067px;
     left: 122px;
 }
 
 #august-2012 .timeline-year {
-    top: 1191px;
+    top: 1101px;
     left: 150px;
 }
 
 #august-2012-heading {
-    top: 1127px;
+    top: 1037px;
     left: 330px;
 }
 
 #august-2012-text {
-    top: 1200px;
+    top: 1110px;
     left: 330px;
     width: 262px;
 }
@@ -365,7 +365,7 @@ nav li#contact-me.selected {
 #steak-image {
     position: absolute;
     height: 35px;
-    top: 92px;
+    top: 90px;
     left: 16px;
 }
 
@@ -375,27 +375,27 @@ nav li#contact-me.selected {
     border-radius: 50%;
     position: absolute;
     background-color: transparent;
-    top: 1090px;
+    top: 1000px;
     left: 640px;
 }
 
 #may-2012 .timeline-month {
-    top: 1453px;
+    top: 1363px;
     left: 143px;
 }
 
 #may-2012 .timeline-year {
-    top: 1488px;
+    top: 1398px;
     left: 150px;
 }
 
 #may-2012-heading {
-    top: 1393px;
+    top: 1303px;
     left: 440px;
 }
 
 #may-2012-text {
-    top: 1500px;
+    top: 1410px;
     left: 440px;
     width: 252px;
 }
@@ -403,7 +403,7 @@ nav li#contact-me.selected {
 #mcgill-image {
     position: absolute;
     height: 35px;
-    top: 72px;
+    top: 70px;
     left: 17px;
 }
 
@@ -413,27 +413,27 @@ nav li#contact-me.selected {
     border-radius: 50%;
     position: absolute;
     background-color: transparent;
-    top: 1410px;
+    top: 1320px;
     left: 740px;
 }
 
 #august-2011 .timeline-month {
-    top: 1757px;
+    top: 1667px;
     left: 122px;
 }
 
 #august-2011 .timeline-year {
-    top: 1791px;
+    top: 1701px;
     left: 150px;
 }
 
 #august-2011-heading {
-    top: 1693px;
+    top: 1603px;
     left: 360px;
 }
 
 #august-2011-text {
-    top: 1800px;
+    top: 1710px;
     left: 360px;
     width: 262px;
 }
@@ -441,13 +441,13 @@ nav li#contact-me.selected {
 #cloud-image {
     position: absolute;
     height: 90px;
-    top: 1755px;
+    top: 1665px;
     left: 704px;
 }
 
 #dentsubos-image {
     position: absolute;
-    top: -25px;
+    top: -30px;
     left: -28px;
     width: 280px;
 }
@@ -458,34 +458,34 @@ nav li#contact-me.selected {
     border-radius: 50%;
     position: absolute;
     background-color: transparent;
-    top: 1990px;
+    top: 1900px;
     left: 740px;
 }
 
 #may-2011 .timeline-month {
-    top: 2055px;
+    top: 1965px;
     left: 142px;
 }
 
 #may-2011 .timeline-year {
-    top: 2090px;
+    top: 2000px;
     left: 150px;
 }
 
 #may-2011-heading {
-    top: 1990px;
+    top: 1900px;
     left: 380px;
 }
 
 #may-2011-text {
-    top: 2100px;
+    top: 2010px;
     left: 380px;
     width: 282px;
 }
 
 #tv-mcgill-image {
     position: absolute;
-    top: 48px;
+    top: 50px;
     left: 20px;
     width: 135px;
 }
@@ -496,27 +496,27 @@ nav li#contact-me.selected {
     border-radius: 50%;
     position: absolute;
     background-color: transparent;
-    top: 2310px;
+    top: 2220px;
     left: 660px;
 }
 
 #jan-2011 .timeline-month {
-    top: 2355px;
+    top: 2265px;
     left: 145px;
 }
 
 #jan-2011 .timeline-year {
-    top: 2390px;
+    top: 2300px;
     left: 150px;
 }
 
 #jan-2011-heading {
-    top: 2330px;
+    top: 2240px;
     left: 290px;
 }
 
 #jan-2011-text {
-    top: 2400px;
+    top: 2310px;
     left: 290px;
     width: 320px;
 }
@@ -524,33 +524,33 @@ nav li#contact-me.selected {
 #yoshi-egg-image {
     position: absolute;
     height: 160px;
-    top: 2625px;
+    top: 2535px;
     left: 719px;
 }
 
 #nov-2007 .timeline-month {
-    top: 2654px;
+    top: 2564px;
     left: 145px;
 }
 
 #nov-2007 .timeline-year {
-    top: 2690px;
+    top: 2600px;
     left: 150px;
 }
 
 #nov-2007-heading {
-    top: 2630px;
+    top: 2540px;
     left: 380px;
 }
 
 #nov-2007-text {
-    top: 2700px;
+    top: 2610px;
     left: 380px;
     width: 300px;
 }
 
 #cv-text {
-    top: 2943px;
+    top: 2853px;
     left: 135px;
     font-size: 22px;
     font-family: 'Raleway'
@@ -559,7 +559,7 @@ nav li#contact-me.selected {
 #cv-svg {
     position: absolute;
     width: 50px;
-    top: 2995px;
+    top: 2905px;
     left: 145px;
     color: white;
 }
@@ -571,7 +571,7 @@ nav li#contact-me.selected {
     border-radius: 50%;
     position: absolute;
     background-color: transparent;
-    top: 2940px;
+    top: 2850px;
     left: 110px;
 }
 
