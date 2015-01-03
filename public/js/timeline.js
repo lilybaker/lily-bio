@@ -3,7 +3,7 @@ var y_offset = -90;
 var circleData = [
   // oct 2014
   { "center_x": 170, "center_y": 280 + y_offset, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
-  { "center_x": 850, "center_y": 280 + y_offset, "radius": 110, "border_width": 3, "border_color": "white", "fill_color": "#CEE4F1" },
+  { "center_x": 850, "center_y": 280 + y_offset, "radius": 110, "border_width": 3, "border_color": "white", "fill_color": "#DBFFFB" },
   // may 2014
   { "center_x": 170, "center_y": 580 + y_offset, "radius": 60, "border_width": 3, "border_color": "white", "fill_color": "#B0EBDE" },
   { "center_x": 750, "center_y": 580 + y_offset, "radius": 80, "border_width": 3, "border_color": "white", "fill_color": "#eac7ca" },
